@@ -1,6 +1,9 @@
 # analyzeUpDownStatesFromMUAinMEA
 Scripts in Matlab to extract multi-unit activity (MUA) from multi-electrode arrays (MEA) recording electrophysiological activity to detect and analyze cortical Up and Down states.
 
+Main script is "Summary.m" launching "analyzeUpDownStateVsRecordingSet.m".
+Analysis parameters are set in "setParamsAndOptions.m" for an example case.
+
 Library of scripts used in 
 
 Ruiz-Mejias, M., Ciria-Suarez, L., Mattia, M., & Sanchez-Vives, M. V. (2011). 
